@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+      "outDir": "dist",
+      "rootDir": "./src",
+      "baseUrl": "./",
+      "allowSyntheticDefaultImports": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "preserveConstEnums": true,
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "noEmitOnError": true,
+      "strict": true
+  },
+  "exclude": ["node_modules"]
+}
+
